@@ -36,17 +36,20 @@ Well time and frameworks change, is it time to replace Hello World? What would b
 What would make a dev smile to see on screen?
 
 ## My Suggestion 
-.
-
-.
-
-.
-
-.
-
-.
 
 The classic greeting from an old mentor.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+
 
 ## Hello There!
 
@@ -69,4 +72,4 @@ def index():
   return "Hello There!"
 ```
 
-See it looks good.
+See it looks good. So here I plan to add Hello There as I learn new languages. 
