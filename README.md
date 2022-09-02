@@ -27,8 +27,9 @@ Python
 ```python
 print ("Hello World!")
 
-def index():
+def hello():
   return "Hello World!"
+hello()
 ```
 
 Well time and frameworks change, is it time to replace Hello World? What would be a suitable replacement? 
@@ -71,6 +72,9 @@ Python
 ```python
 print("Hello There!")
 
+def hello_function():
+    print("Hello there!")
+hello_function()
 ```
 
 See it looks good. So here I plan to add Hello There as I learn new languages. 
