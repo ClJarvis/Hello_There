@@ -66,10 +66,11 @@ JavaScript
 ```javascript
 console.log("Hello There!")
 ```
+Python
 
 ```python
-def index():
-  return "Hello There!"
+print("Hello There!")
+
 ```
 
 See it looks good. So here I plan to add Hello There as I learn new languages. 
