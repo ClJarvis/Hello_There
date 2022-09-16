@@ -10,3 +10,6 @@ Once assigned.
 * Create a new branch titles Hello_There.extenesion, with the extension being the language you are adding. (EX Hello_There.py)
 * Write the code for `Hello There!` in the chosen language.
 * Push the code and open a pull request.
+
+<!--
+//add obi wan gif? or pic  -->
