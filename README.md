@@ -1,6 +1,6 @@
 # Is it time to replace Hello World?
 
-It's a common practice to code the phrase "Hello World!", to the screen the first time you use a new language or program. I wrote about this in an early blog post. But am updating not with syntax highlighting.
+It's a common practice to code the phrase "Hello World!", to the screen the first time you use a new language or program. I've written a couple blog posts about this with a few sample languages. "Hello World" Has been used for a long time, is it time to change? That is the focus of this project.
 
 Here's how "Hello World!" is created in a few languages. 
 
