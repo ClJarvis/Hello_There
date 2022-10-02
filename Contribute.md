@@ -9,6 +9,7 @@ Once assigned.
 * Clone the forked repository to your machine.
 * Create a new branch titles Hello_There.extenesion, with the extension being the language you are adding. (EX Hello_There.py)
 * Write the code for `Hello There!` in the chosen language.
+* Add a comment with a link to documentation.
 * Push the code and open a pull request.
 * Link to the issue in your Pull Request. (see Linked Issue below)
 
