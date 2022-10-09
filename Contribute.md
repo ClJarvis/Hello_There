@@ -3,6 +3,10 @@
 * Check to see if the language has a file or not. 
 * Does it have an issue already created and has it been assigned yet?
   * If the issue has not been assigned, ask to be assigned that language.
+  * Don't work on the issue until is assigned to you. 
+  * Don't push PRs for issue assigned to other developers.
+ 
+
 
 Once assigned. 
 * Fork this repository.
