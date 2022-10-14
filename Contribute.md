@@ -30,6 +30,14 @@ To link a pull request to an issue to show that a fix is in progress and to auto
 
  By submitting a pull request, you agree to follow our [Code of Conduct](https://github.com/ClJarvis/Hello_There/blob/main/Code_of_Conduct)
 
+## Contributors
+
+
+<a href="https://github.com/ClJarvis/Hello_There/graphs/contributors">
+    <img src="https://contrib.rocks/image?repo=ClJarvis/Hello_There&max=100"
+        alt="A row of avatars of the contributors to Hello There!"
+        style="margin-left: auto; margin-right: auto; display: block;"/>
+</a>
 
 <!--
 //add obi wan gif? or pic  -->
