@@ -77,4 +77,4 @@ def hello_function():
 hello_function()
 ```
 
-See it looks good. So here I plan to add Hello There as I learn new languages. 
+It works and adds a little humor and fun to a common activity. I plan to add "Hello There!" as I learn new languages. I have also opened the project up to first time contributors.
