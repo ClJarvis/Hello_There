@@ -5,8 +5,8 @@
   * If the issue has not been assigned, ask to be assigned that language.
   * Don't work on the issue until is assigned to you. 
   * Don't push PRs for issue assigned to other developers.
- 
-
+  * This is meant for new to development people so please leave the PRs for them. Hello There is good first issue, not necessarily very first issue but early in developer journey. 
+* Give me at least two days to respond to questions or PRs. 
 
 Once assigned. 
 * Fork this repository.
